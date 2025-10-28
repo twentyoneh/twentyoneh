@@ -21,6 +21,7 @@
          src="https://github-readme-activity-graph.vercel.app/graph?username=twentyoneh&theme=github-compact&hide_border=true&area=true&radius=8" />
   </a>
 </p>
+
 ### 🧰 Стек и инструменты
 <p>
   <!-- Java / Spring -->
