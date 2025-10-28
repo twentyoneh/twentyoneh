@@ -1,58 +1,30 @@
 <h1 align="center">Github profile</h1>
-
 <p align="center">
   <a href="mailto:didiwot@yandex.ru">✉️ Связаться</a>
 </p>
-
 ---
-
-### 📊 Мои графики и статистика
-
-<div align="center">
-
-<!-- Activity Graph -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=twentyoneh&theme=github-compact&hide_border=true"
-  />
-</a>
-
-<br/><br/>
-
-<!-- Stats + Streak -->
 <table>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=twentyoneh&show_icons=true&theme=github_dark&hide_border=true"
-        />
+        <img alt="GitHub Stats"
+             src="https://github-readme-stats.vercel.app/api?username=twentyoneh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_title=true&card_width=380" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img
-          alt="GitHub Streak"
-          src="https://streak-stats.demolab.com?user=twentyoneh&theme=github-dark&hide_border=true"
-        />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Languages"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentyoneh&layout=compact&theme=github_dark&hide_border=true&hide_title=true&card_width=320" />
       </a>
     </td>
   </tr>
 </table>
-
-<!-- Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentyoneh&layout=compact&theme=github_dark&hide_border=true"
-  />
-</a>
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph"
+         src="https://github-readme-activity-graph.vercel.app/graph?username=twentyoneh&theme=github-compact&hide_border=true&area=true&radius=8" />
+  </a>
+</p>
 
 ### 🧰 Стек и инструменты
 <p>
