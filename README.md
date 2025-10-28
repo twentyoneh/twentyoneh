@@ -10,7 +10,12 @@
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Top Languages"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentyoneh&layout=compact&theme=github_dark&hide_border=true&hide_title=true&card_width=320" />
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentyoneh&layout=compact&theme=github_dark&hide_border=true&hide_title=true&card_width=320&exclude_repo=lwip_H753_UDP_parse,FinalProject-STM32" />
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs
+?username=twentyoneh
+&layout=compact
+&hide_border=true
+)
       </a>
     </td>
   </tr>
