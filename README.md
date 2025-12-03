@@ -4,13 +4,13 @@
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="GitHub Stats"
-             src="https://github-readme-stats.vercel.app/api?username=twentyoneh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_title=true&card_width=380" />
+             src="https://github-readme-stats-six-ochre-52.vercel.app/api?username=twentyoneh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_title=true&card_width=380" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Top Languages"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentyoneh&layout=compact&theme=github_dark&hide_border=true&hide_title=true&card_width=320&exclude_repo=lwip_H753_UDP_parse,FinalProject-STM32" />
+             src="https://github-readme-stats-six-ochre-52.vercel.app/api/top-langs/?username=twentyoneh&layout=compact&theme=github_dark&hide_border=true&hide_title=true&card_width=320&exclude_repo=lwip_H753_UDP_parse,FinalProject-STM32" />
       </a>
     </td>
   </tr>
